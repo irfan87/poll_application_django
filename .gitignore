@@ -1,0 +1,5 @@
+.vscode
+.DS_Store
+pipenv/
+__pycache__/
+*.sqlite3
